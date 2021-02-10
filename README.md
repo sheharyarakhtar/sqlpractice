@@ -1,2 +1,3 @@
 # sqlpractice
-SQL Practice problems. 57 beginning, intermediate and advanced challengers for you to solve using a 'learn-by-doing' approach By Sylvia Moestl Vasilik
+SQL Practice problems by Sylvia Moestl Vasilik
+Solving Beginner, Intermediate and advanced level problems to learn using the learn-by-doing approach
